@@ -2,10 +2,10 @@
 
 ## About Me
 
-I'm a passionate Data Scientist with a strong interest in building models for huge business impacts. I love football⚽, watching movies 🎬, going to gym🏋️, and a pint of beer🍺 on the weekends. I'm constantly exploring new technologies and learning from the incredible open-source community.
+I'm a passionate Data Scientist with a strong interest in building models for huge business impacts. I love football⚽, watching movies🎬, going to the gym🏋️, and a pint of beer🍺 on the weekends. I'm constantly exploring new technologies and learning from the incredible open-source community.
 
 - 🏋️ I’m currently working as a Senior Data Analyst at Tiger Analytics.
-- 🔭 My latest projects are : [Payment Anomaly Detection](https://github.com/poolkit/Payment-Fraud-Anomaly-Detection), [Hybrid Restaurant Reccomender System](https://github.com/poolkit/Hybrid-Restaurant-Recommender)
+- 🔭 My latest projects are : [Payment Anomaly Detection](https://github.com/poolkit/Payment-Fraud-Anomaly-Detection), [Hybrid Restaurant Recommender System](https://github.com/poolkit/Hybrid-Restaurant-Recommender)
 - 🌱 I’m currently learning Docker, CI/CD, MLOPs, LLMs
 - 💬 Ask me about Statistics, Data Preprocessing, Data Analysis, ML/DL Algorithms
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/poolkit/)
@@ -60,7 +60,7 @@ I'm comfortable working with a variety of technologies and tools, including but 
 ## Let's Connect
 
 Feel free to connect with me on social media or through other platforms:
-<!-- LinkedIN -->
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/poolkit/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>
 <!-- Leetcode -->
@@ -77,5 +77,5 @@ Feel free to connect with me on social media or through other platforms:
 
 ## Thanks for visiting my profile!
 
-If you found my work interesting or have any suggestions, please feel free to reach out. I'm always open to new ideas and collaborations.
+If you find my work interesting or have any suggestions, please feel free to reach out. I'm always open to new ideas and collaborations.
 

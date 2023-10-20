@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Data Scientist with a strong interest in building models for huge business impacts. I love football⚽, watching movies🎬, going to the gym🏋️, and a pint of beer🍺 on the weekends. I'm constantly exploring new technologies and learning from the incredible open-source community.
+I'm a passionate Data Scientist with a strong interest in building models for huge business impacts. I love football⚽, watching movies🎬, going to the gym🏋️, and a pint of beer🍺 on the weekends. I'm constantly exploring new technologies and learning from the amazing open-source community.
 
 - 🏋️ I’m currently working as a Senior Data Analyst at Tiger Analytics.
 - 🔭 My latest projects are : [Payment Anomaly Detection](https://github.com/poolkit/Payment-Fraud-Anomaly-Detection), [Hybrid Restaurant Recommender System](https://github.com/poolkit/Hybrid-Restaurant-Recommender)
@@ -69,11 +69,6 @@ Feel free to connect with me on social media or through other platforms:
 <!-- Mail -->
 <a href="mailto:pulkit.pk7@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="30" height="30" />
-
-
-## Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=poolkit&show_icons=true)
 
 ## Thanks for visiting my profile!
 

@@ -5,6 +5,7 @@
 I'm a passionate Data Scientist with a strong interest in building models for huge business impacts. I love football⚽, watching movies🎬, going to the gym🏋️, and a pint of beer🍺 on the weekends. I'm constantly exploring new technologies and learning from the amazing open-source community.
 
 - 🏋️ I’m currently working as a Senior Data Analyst at Tiger Analytics.
+- 🤖 I'm currently working on [TradeWISE](https://github.com/poolkit/TradeWISE)
 - 🔭 My latest projects are : [Payment Anomaly Detection](https://github.com/poolkit/Payment-Fraud-Anomaly-Detection), [Hybrid Restaurant Recommender System](https://github.com/poolkit/Hybrid-Restaurant-Recommender)
 - 🌱 I’m currently learning Docker, CI/CD, MLOPs, LLMs
 - 💬 Ask me about Statistics, Data Preprocessing, Data Analysis, ML/DL Algorithms
